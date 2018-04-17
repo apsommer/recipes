@@ -1,0 +1,10 @@
+Ingredients:
+ - avocado
+ - olive oil
+ - sour cream
+ - salt
+ - pepper
+
+Directions:
+  1. Mix everything in a bowl.
+  2. Enjoy.
